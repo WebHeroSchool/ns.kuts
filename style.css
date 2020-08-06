@@ -1,20 +1,16 @@
 .header__title{
-  font-family: 'Pacifico', cursive;
-  src: url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+  font-family: 'Amatic SC', cursive;
+  font-family: 'Marck Script', cursive;
 }
 .header__text{
-  font-family: 'EB Garamond', serif;
-  src: url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+  font-family: 'Amatic SC', cursive;
 }
 .section__text{
-  font-family: 'EB Garamond', serif;
-  src: url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+  font-family: 'Amatic SC', cursive;
 }
 .section__desc{
-  font-family: 'EB Garamond', serif;
-  src: url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+  font-family: 'Amatic SC', cursive;
 }
 .footer__text{
-  font-family: 'EB Garamond', serif;
-  src: url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+  font-family: 'Amatic SC', cursive;
 }
