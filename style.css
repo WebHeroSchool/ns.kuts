@@ -1,16 +1,6 @@
+.body{
+  font-family: 'Amatic SC', cursive;
+}
 .header__title{
-  font-family: 'Amatic SC', cursive;
   font-family: 'Marck Script', cursive;
-}
-.header__text{
-  font-family: 'Amatic SC', cursive;
-}
-.section__text{
-  font-family: 'Amatic SC', cursive;
-}
-.section__desc{
-  font-family: 'Amatic SC', cursive;
-}
-.footer__text{
-  font-family: 'Amatic SC', cursive;
 }
